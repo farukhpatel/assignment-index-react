@@ -1,0 +1,17 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.gap{
+    margin-left: 12px;
+}
+#round{
+    height: 35px;
+   width: 35px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+    color: red;
+}
